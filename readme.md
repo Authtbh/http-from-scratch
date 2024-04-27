@@ -20,7 +20,7 @@ This project implements a simple HTTP server written entirely in Rust.
 
 **Getting Started:**
 
-1. Clone the repository: `git clone https://<your_repository_url>`
+1. Clone the repository: `git clone https://https://github.com/Authtbh/http-from-scratch`
 2. Build the project: `cargo build`
 3. Run the server: `cargo run`
 
